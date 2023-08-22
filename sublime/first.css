@@ -1,0 +1,14 @@
+body {
+    background-image: url('assets/BG.png');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: 50% 30%;
+    background-attachment: fixed;
+
+
+}
+
+h4{
+	color: darkred;
+
+}
